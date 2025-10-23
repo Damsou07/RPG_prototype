@@ -1,6 +1,6 @@
 import { useGameStore } from "./store/gameStore";
 import { StartScreen } from "./screens/StartScreen";
-import { GameScreen } from "./screens/GameScreen";
+import { GameScreen } from "./screens/SelectStageScreen";
 import { InventoryScreen } from "./screens/InventoryScreen";
 import { GameOverScreen } from "./screens/GameOverScreen";
 
