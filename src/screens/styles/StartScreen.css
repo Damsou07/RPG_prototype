@@ -1,0 +1,16 @@
+.screen-box {
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.title {
+    margin-top: 80px;
+    font-size: 3.6rem;
+    letter-spacing: 4px;      
+}
+
+.button {
+    font-size: 1.8rem;
+    margin-top: 150px;
+}

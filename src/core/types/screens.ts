@@ -1,1 +1,6 @@
-export type GameScreen = "START" | "GAME" | "INVENTORY" | "GAME_OVER";
+export type GameScreen = 
+    "START" | 
+    "SELECT_STAGE" | 
+    "INVENTORY" | 
+    "GAME_OVER"
+;

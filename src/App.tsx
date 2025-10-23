@@ -10,7 +10,7 @@ function App() {
   switch (currentScreen) {
     case "START":
       return <StartScreen />;
-    case "GAME":
+    case "SELECT_STAGE":
       return <GameScreen />;
     case "INVENTORY":
       return <InventoryScreen />;

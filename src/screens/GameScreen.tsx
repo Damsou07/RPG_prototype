@@ -5,7 +5,7 @@ export const GameScreen = () => {
 
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-black text-white">
-      <h2 className="text-3xl mb-4">Bienvenue dans l’aventure !</h2>
+      <h2 className="text-3xl mb-4">Chapitre 1</h2>
       <button
         className="px-4 py-2 bg-gray-700 hover:bg-gray-600 rounded"
         onClick={() => setScreen("INVENTORY")}

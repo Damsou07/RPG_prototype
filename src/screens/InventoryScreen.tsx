@@ -8,7 +8,7 @@ export const InventoryScreen = () => {
       <h2 className="text-2xl mb-4">Inventaire (vide pour l’instant)</h2>
       <button
         className="px-4 py-2 bg-indigo-700 hover:bg-indigo-600 rounded"
-        onClick={() => setScreen("GAME")}
+        onClick={() => setScreen("SELECT_STAGE")}
       >
         Retour
       </button>
